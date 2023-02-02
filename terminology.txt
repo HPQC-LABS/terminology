@@ -1,0 +1,1 @@
+[Code motion](https://en.wikipedia.org/wiki/Code_motion). `.err` file said that the diving by 0 occurred on a certain line, but in the actual code it happened on a line that was about 3 lines away.
